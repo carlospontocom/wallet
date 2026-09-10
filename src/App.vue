@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue';
-import '../src/css/carteira.css';
+import '@/css/carteira.css';
 </script>
 
 <template>
